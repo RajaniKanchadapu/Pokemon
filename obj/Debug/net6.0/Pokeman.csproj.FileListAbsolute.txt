@@ -1,0 +1,15 @@
+C:\Users\navee\source\repos\Pokeman\Pokeman\bin\Debug\net6.0\Pokeman.exe
+C:\Users\navee\source\repos\Pokeman\Pokeman\bin\Debug\net6.0\Pokeman.deps.json
+C:\Users\navee\source\repos\Pokeman\Pokeman\bin\Debug\net6.0\Pokeman.runtimeconfig.json
+C:\Users\navee\source\repos\Pokeman\Pokeman\bin\Debug\net6.0\Pokeman.dll
+C:\Users\navee\source\repos\Pokeman\Pokeman\bin\Debug\net6.0\Pokeman.pdb
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\Pokeman.csproj.AssemblyReference.cache
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\Pokeman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\Pokeman.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\Pokeman.AssemblyInfo.cs
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\Pokeman.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\Pokeman.dll
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\refint\Pokeman.dll
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\Pokeman.pdb
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\Pokeman.genruntimeconfig.cache
+C:\Users\navee\source\repos\Pokeman\Pokeman\obj\Debug\net6.0\ref\Pokeman.dll
