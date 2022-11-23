@@ -16,3 +16,6 @@ The following are the Weaknesses of type: BUG
 FLYING
 ROCK
 FIRE
+
+
+![image](https://user-images.githubusercontent.com/64625913/203636164-28dac41d-1b22-4a82-a83d-3b16d16978d1.png)
