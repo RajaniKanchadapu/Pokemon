@@ -1,6 +1,6 @@
 # Pokemon 
 
-This is a console app takes type of the pokemon as input and displays strengths and weaknesses.
+This is a console app that takes type of the pokemon as input and displays strengths and weaknesses.
 
 API used for this console app is : "https://pokeapi.co/api/v2/type"
 
